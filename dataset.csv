@@ -1,0 +1,88 @@
+Age,Gender,Race,outside US,employment status,student status,major,stem status,other apple products,ipad
+17,Woman,White,Yes,Yes,Yes,N/A,No,Yes,No
+20,Woman,White,No,Yes,Yes,Psychology,No,Yes,No
+19,Man,White,Yes,Yes,Yes,Event Management,No,Yes,No
+20,Woman,Two or more races,Yes,Yes,Yes,Psychology,Yes,Yes,No
+20,Woman,Hispanic or Latino or Spanish Origin of any race,Yes,No,Yes,Political Science ,No,Yes,Yes
+19,Man,White,Yes,Yes,Yes,Emerging Media,No,Yes,Yes
+20,Woman,White,No,Yes,Yes,Forensic Science,Yes,Yes,Yes
+20,Woman,Hispanic or Latino or Spanish Origin of any race,Yes,Yes,Yes,Health Sciences ,Yes,Yes,Yes
+19,Woman,White,Yes,Yes,Yes,Political Science,No,Yes,Yes
+19,Woman,Hispanic or Latino or Spanish Origin of any race,Yes,Yes,Yes,Fashion Entrepreneurship,No,Yes,No
+19,Woman,White,Yes,No,Yes,Biology,Yes,Yes,No
+20,Woman,Hispanic or Latino or Spanish Origin of any race,No,Yes,Yes,Business Marketing ,No,Yes,No
+19,Man,Hispanic or Latino or Spanish Origin of any race,Yes,Yes,Yes,Biochemistry,Yes,Yes,Yes
+20,Woman,Black or African American,Yes,No,Yes,Computer Science,Yes,Yes,Yes
+20,Woman,Hispanic or Latino or Spanish Origin of any race,Yes,No,Yes,Digital Media Design ,No,Yes,No
+22,Woman,White,Yes,Yes,No,N/A,Not in University,Yes,Yes
+20,Man,Black or African American,Yes,Yes,Yes,Technical Theatre ,No,Yes,No
+20,Woman,White,Yes,Yes,Yes,Botanical Science ,Yes,Yes,No
+19,Woman,White,Yes,No,Yes,Psychology ,Yes,Yes,No
+19,Man,Two or more races,Yes,Yes,Yes,Astronomy,Yes,Yes,Yes
+19,Woman,Asian,Yes,Yes,Yes,Psychology ,No,Yes,No
+22,Woman,Asian,Yes,Yes,Yes,Biomedical Sciences,Yes,Yes,Yes
+21,Man,White,Yes,No,Yes,Health Sciences,Yes,Yes,No
+16,Woman,White,Yes,No,Yes,N/A,No,Yes,Yes
+41,Non-Binary,Native Hawaiian or Other Pacific Islander,Yes,No,No,Library Science,Not in University,No,No
+25,Man,Hispanic or Latino or Spanish Origin of any race,Yes,Yes,No,Computer Science,Not in University,Yes,No
+20,Woman,White,Yes,Yes,Yes,Criminal Justice ,No,Yes,No
+19,Man,White,Yes,Yes,Yes,Computer Science,Yes,Yes,Yes
+19,Man,Hispanic or Latino or Spanish Origin of any race,No,No,Yes,Computer Science,Yes,Yes,No
+20,Woman,Two or more races,Yes,No,Yes,Zoology,Yes,Yes,Yes
+20,Woman,Two or more races,Yes,No,No,N/A,Not in University,Yes,No
+20,Woman,Black or African American,No,No,Yes,Information Technology,Yes,Yes,Yes
+22,Man,Black or African American,Yes,No,Yes,Computer Science,Yes,Yes,No
+18,Woman,White,No,Yes,Yes,Computer Science,Yes,Yes,No
+31,Man,White,Yes,Yes,No,N/A,Not in University,No,No
+19,Woman,Black or African American,No,Yes,Yes,Environmental Science ,Yes,No,No
+19,Woman,White,Yes,No,Yes,Business ,No,Yes,Yes
+21,Woman,Two or more races,No,Yes,Yes,Nursing,No,Yes,No
+22,Woman,Black or African American,No,Yes,Yes,Digital Media ,No,Yes,Yes
+22,Man,White,No,No,Yes,Computer Science,Yes,No,No
+19,Man,Hispanic or Latino or Spanish Origin of any race,Yes,No,Yes,Biology,Yes,Yes,No
+22,Man,White,Yes,No,Yes,History ,No,Yes,Yes
+21,Woman,White,No,No,Yes,Anthropology ,Yes,Yes,No
+19,Non-Binary,White,Yes,No,Yes,Emerging Media,No,Yes,No
+21,Woman,Hispanic or Latino or Spanish Origin of any race,No,No,Yes,Computer Science,Yes,No,Yes
+19,Woman,White,Yes,No,Yes,Music Performance,No,Yes,No
+19,Woman,Asian,Yes,Yes,Yes,English ,No,Yes,No
+20,Other,Two or more races,Yes,No,Yes,Graphic Design,No,Yes,No
+20,Woman,Hispanic or Latino or Spanish Origin of any race,Yes,No,Yes,Biology,Yes,No,No
+19,Woman,Hispanic or Latino or Spanish Origin of any race,Yes,No,Yes,Nursing ,No,Yes,No
+19,Man,Hispanic or Latino or Spanish Origin of any race,Yes,No,Yes,Physics,Yes,Yes,No
+20,Non-Binary,White,Yes,Yes,Yes,Psychology,Yes,No,No
+18,Man,Asian,Yes,No,Yes,Computer Engineering ,Yes,No,No
+18,Woman,White,No,No,Yes,Accounting,No,Yes,No
+18,Man,White,Yes,Yes,Yes,Information Technology ,Yes,Yes,Yes
+21,Man,White,Yes,No,Yes,Mechanical Engineering,Yes,No,No
+20,Man,White,Yes,Yes,Yes,Computer Science,Yes,No,No
+22,Man,White,Yes,No,Yes,Computer Science ,Yes,No,No
+22,Woman,Hispanic or Latino or Spanish Origin of any race,Yes,Yes,Yes,Computer Science,Yes,Yes,Yes
+20,Woman,Two or more races,Yes,Yes,Yes,Biology ,Yes,Yes,Yes
+27,Man,Two or more races,Yes,No,Yes,Computer Science,Yes,No,No
+18,Man,White,Yes,Yes,Yes,Computer Science,Yes,Yes,No
+20,Other,Hispanic or Latino or Spanish Origin of any race,No,No,Yes,Psychology,Not in University,Yes,Yes
+21,Man,White,Yes,Yes,Yes,Computer Science,Yes,Yes,Yes
+19,Man,Asian,Yes,No,Yes,Computer Science,Yes,Yes,No
+20,Man,White,Yes,No,Yes,Jazz Performance,No,Yes,No
+19,Woman,White,Yes,Yes,Yes,Public Relations,No,Yes,No
+23,Man,White,Yes,No,Yes,Aerospace Engineering ,Yes,Yes,Yes
+24,Woman,White,Yes,Yes,Yes,Computer Science,Yes,Yes,No
+24,Man,White,Yes,Yes,Yes,Computer Science,Yes,Yes,No
+23,Man,Asian,Yes,Yes,No,N/A,Not in University,Yes,No
+23,Man,White,Yes,Yes,No,Mechanical Engineering,Yes,No,No
+20,Man,Two or more races,Yes,Yes,Yes,Finance,No,Yes,No
+18,Man,White,Yes,No,Yes,Aerospace Engineering,Yes,Yes,No
+20,Man,White,Yes,Yes,Yes,Computer Science,Yes,Yes,No
+21,Woman,Hispanic or Latino or Spanish Origin of any race,No,No,Yes,Computer Science,Yes,Yes,No
+20,Woman,White,Yes,No,Yes,Biology ,Yes,Yes,Yes
+20,Non-Binary,White,Yes,Yes,Yes,Psychology ,No,Yes,No
+21,Man,White,Yes,No,Yes,Information Technology,Yes,Yes,Yes
+18,Woman,Asian,Yes,No,Yes,Computer Science,Yes,Yes,No
+57,Man,White,Yes,No,No,N/A,Not in University,No,Yes
+21,Woman,White,Yes,Yes,Yes,Political Science,Yes,Yes,No
+20,Woman,White,No,Yes,Yes,Computer Science,Yes,Yes,No
+19,Woman,Black or African American,Yes,Yes,Yes,Computer Science,Yes,Yes,No
+20,Woman,Black or African American,Yes,No,Yes,Computer Engineering,Yes,Yes,Yes
+20,Man,Hispanic or Latino or Spanish Origin of any race,Yes,No,Yes,Computer Science,Yes,No,No
+27,Man,White,Yes,Yes,Yes,Information Technology,Yes,Yes,Yes
